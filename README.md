@@ -3,93 +3,73 @@
 
 ---
 
-### 🧑‍💼 About Me
+### 🛠️ Core Skills
 
-I’m a passionate and detail-oriented **Full Stack Developer** with a degree in **Computer Science & Engineering (2020–2024)** from **Raghu Institute of Technology**, holding a CGPA of **7.6**.  
-
-Currently interning at **CV CORP**, I develop scalable, responsive web applications using modern tools and frameworks. I value clean code, collaboration, and continual learning.
-
----
-
-### 🎓 Education
-
-- 🎓 **B.Tech - Computer Science & Engineering**  
-  *Raghu Institute of Technology* | 2020–2024 | CGPA: **7.6**
-
-- 📘 **Intermediate (MPC)**  
-  *A.P. Model College* | 2018–2020 | CGPA: **9.1**
-
-- 🏫 **SSC**  
-  *A.P. Model School* | 2017–2018 | CGPA: **9.5**
-
----
-
-### 💼 Work Experience
-
-**Java Full Stack Developer Intern**  
-📍 CV CORP, Hyderabad  
-🗓️ July 2024 – February 2025
-
-- Developed full-stack applications using Angular, Java & Spring Boot  
-- Integrated MySQL databases & built RESTful APIs  
-- Used Git for version control & Postman for API testing  
-- Collaborated in Agile environments  
-
----
-
-### 🛠️ Skills & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Basics-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Projects
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      
-🔹 **Foodie – Food Delivery Website**  
-A full-stack food delivery application featuring:
-- Seamless food selection & cart system  
-- Secure checkout & billing  
-- Enhanced UI/UX with smooth animations  
-
-🛠️ *Angular, Java, Spring Boot, MySQL, HTML, CSS*
-
-</td>
-    <td width="50%" valign="top">
-      
-🔹 **Revolutionizing Software Quality – ML Research**  
-A research project applying ML algorithms for:
-- Defect prediction using SVM, RF, KNN, Bagging  
-- Software quality improvement via analysis  
-
-🧠 *Machine Learning | Python | Scikit-learn*
-
-</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/><br>Spring Boot
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/><br>Angular
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/><br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/><br>Postman
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/><br>AWS (Basics)
+    </td>
   </tr>
 </table>
 
 ---
 
-### 📬 Contact
+### 🚀 Featured Projects
 
-- 📧 **Email**: [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com)  
-- 📞 **Phone**: +91-7013652787  
-- 💼 **LinkedIn**: [shaik-sharukh-khan](https://www.linkedin.com/in/shaik-sharukh-khan/)  
-- 💻 **GitHub**: [skkhan007](https://github.com/skkhan007)
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border:1px solid #DDD; padding:12px; width:48%; vertical-align:top;">
+**Foodie – Food Delivery Platform**  
+A full-stack solution with smooth UI, secure cart, checkout, billing & animations.  
+**Tech Stack:** Angular • Java • Spring Boot • MySQL
+    </td>
+    <td style="border:1px solid #DDD; padding:12px; width:48%; vertical-align:top;">
+**Revolutionizing Software Quality – ML Research**  
+ML-driven defect prediction using SVM, Random Forest, KNN, and Bagging to enhance software reliability.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📬 Connect with Me
+
+| Platform   | Details |
+|------------|---------|
+| **Email**  | [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com) |
+| **Phone**  | +91‑7013652787 |
+| **LinkedIn** | [shaik-sharukh-khan](https://www.linkedin.com/in/shaik-sharukh-khan) |
+| **GitHub** | [skkhan007](https://github.com/skkhan007) |
 
 ---
 

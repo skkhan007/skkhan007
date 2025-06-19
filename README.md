@@ -1,99 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shaik Sharukh Khan</h1>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | Angular | MySQL</h3>
 
-<!--
-**skkhan007/skkhan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi there, I'm Shaik Sharukh Khan!
-
-🎓 A motivated **Computer Science Graduate (2020–2024)** from **Raghu Institute of Technology** with a strong foundation in **Java Full Stack Development**, passionate about building scalable and user-friendly web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5F6D7A&center=true&vCenter=true&width=450&lines=Computer+Science+Graduate+%7C+2020+-+2024;Full+Stack+Developer+Intern+at+CV+CORP;Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL+Expert" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 💻 Java Full Stack Developer Intern at **CV CORP**, Hyderabad *(July 2024 – Feb 2025)*
-- ⚙️ Skilled in **Java, Spring Boot, HTML, CSS, JavaScript, Angular, MySQL**
-- 🌐 Basic knowledge of **AWS (Foundational Level)**
-- 🔁 Experienced with **RESTful APIs**, **Microservices**, **Git**, **Postman**
-- 💡 Fast learner, analytical thinker, and team player
-
----
-
-## 🎓 Education
-
-- 🎓 **B.Tech – Computer Science & Engineering**  
-  Raghu Institute of Technology, 2020–2024 | CGPA: **7.6**
-- 🧮 **Intermediate (MPC)**  
-  A.P. Model College, 2018–2020 | CGPA: **9.1**
-- 📘 **SSC**  
-  A.P. Model School, 2017–2018 | CGPA: **9.5**
+- 🎓 **Computer Science Graduate** from **Raghu Institute of Technology (2020-2024)** with CGPA **7.6**
+- 💼 **Java Full Stack Developer Intern** at **CV CORP, Hyderabad** *(July 2024 – Feb 2025)*
+- 🛠️ Experienced in **Java, Spring Boot, Angular, MySQL, HTML, CSS, JavaScript**
+- ☁️ Foundation-level knowledge in **AWS**, REST APIs, and Microservices
+- 🚀 Fast learner & passionate about building scalable web apps with smooth UI/UX
+- 🤝 Looking to collaborate on meaningful software projects
+- 📫 **Email:** 203j1a05h1@raghuinstech.com
 
 ---
 
-## 🛠️ Skills
+### 💼 Work Experience
 
-**Languages:**  
-`Java`
-
-**Front-End:**  
-`HTML` | `CSS` | `JavaScript` | `Angular`
-
-**Back-End:**  
-`Java` | `Spring Boot`
-
-**Databases:**  
-`MySQL`
-
-**Tools & Technologies:**  
-`Git` | `Postman` | `REST APIs` | `Microservices` | `AWS (Basics)`
-
-**Soft Skills:**  
-`Analytical Thinking` | `Problem Solving` | `Teamwork` | `Communication` | `Fast Learning`
+- **Java Full Stack Developer Intern – CV CORP**
+  - Built full-stack web applications with Java, Spring Boot, Angular
+  - Designed and integrated REST APIs, managed data with MySQL
+  - Collaborated in Agile teams, used Git & Postman for development & testing
 
 ---
 
-## 💼 Services
+### 🔧 Tech Stack
 
-- 🚀 Full-Stack Web Application Development  
-- 🎨 Front-End Development & UI/UX Enhancements  
-- ⚙️ RESTful API Development & Integration  
-- 🧠 Back-End Architecture and Database Handling  
-- 📦 Modular & Scalable Web Applications
-
----
-
-## 🔥 Projects
-
-### 🍽️ Foodie - Food Delivery Website
-> A dynamic platform with seamless food selection, cart management, secure checkout, and animated UI for enhanced user experience.  
-> **Tech Stack:** HTML, CSS, JS, Angular, Java, Spring Boot, MySQL
-
-### 🧠 Revolutionizing Software Quality (ML Research)
-> Used SVM, Random Forest, Bagging, and KNN algorithms for defect estimation and improving software quality metrics.  
-> **Focus:** Applied Machine Learning in Software Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+### 🚀 Projects
 
-- 📧 Email: [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com)
-- 📱 Phone: +91-7013652787
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-sharukh-khan/)
-- 💻 [GitHub](https://github.com/skkhan007)
+#### 🍽️ Foodie – Food Delivery Website
+A dynamic web app with food ordering, cart management, secure checkout, and billing. Enhanced UI/UX with animations.
+> **Tech Stack:** HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySQL
+
+#### 🧠 Revolutionizing Software Quality – ML Research
+Implemented ML algorithms like SVM, Random Forest, KNN, and Bagging to predict software defects and improve software quality metrics.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skkhan007&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skkhan007&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skkhan007&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skkhan007&theme=gruvbox&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:203j1a05h1@raghuinstech.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shaik-sharukh-khan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/skkhan007"><img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 > “Transforming ideas into intelligent and scalable digital solutions.”
 
-⭐ *Feel free to connect, collaborate, or check out my repositories!*

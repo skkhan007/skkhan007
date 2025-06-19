@@ -1,77 +1,110 @@
-<p align="center">
-  <img src="https://i.imgur.com/2n6Togm.png" alt="Shaik Sharukh Khan - Banner" width="100%"/>
-</p>
-
-<h1 align="center">Shaik Sharukh Khan</h1>
-<p align="center"><i>Full Stack Developer | Java | Spring Boot | Angular | MySQL</i></p>
-
----
-
-### 👨‍💼 About Me
-
-I’m a passionate **Full Stack Developer** with a B.Tech in **Computer Science & Engineering** from **Raghu Institute of Technology (2020–2024)**.  
-Currently interning at **CV CORP**, I love building scalable, intuitive, and dynamic web applications using modern tech stacks.
-
----
-
-### 🛠️ My Tech Toolbox
-
-<p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" title="Java"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="40" title="Spring Boot"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="40" title="Angular"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" title="HTML5"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" title="CSS3"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" title="MySQL"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" title="Git"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" title="Postman"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="40" title="AWS (Basics)"/></a>
-</p>
+<div align="center">
+  <a href="https://github.com/skkhan007">
+    <img src="https://github.com/skkhan007.png" width="150" style="border-radius:50%;" alt="Shaik Sharukh Khan Profile Picture">
+  </a>
+  <h1>👋 Hi, I’m Shaik Sharukh Khan!</h1>
+  <p>🚀 A passionate <b>Full Stack Developer</b> with a knack for building scalable web applications and seamless user experiences.</p>
+  <p>✨ <i>"Transforming ideas into interactive digital experiences."</i></p>
+  <p>
+    <a href="#projects">Explore My Projects</a> | 
+    <a href="#contact">Get in Touch</a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 📖 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px;">
-      <strong>🍽️ Foodie – Food Delivery Platform</strong><br><br>
-      A dynamic platform with real-time food browsing, cart, secure checkout, and animated UI.<br><br>
-      <b>Tech Stack:</b> Angular, Spring Boot, Java, MySQL<br>
-      🔗 <a href="https://github.com/skkhan007/Foodie">View Source</a> | <a href="https://foodie-demo.netlify.app">Live Demo</a>
-    </td>
-    <td width="50%" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px;">
-      <strong>🧠 Revolutionizing Software Quality – ML Research</strong><br><br>
-      Built a predictive model using SVM, RF, KNN, and Bagging for defect detection in software development.<br><br>
-      <b>Tech Stack:</b> Python, Scikit-learn<br>
-      🔗 <a href="https://github.com/skkhan007/Software-Quality-ML">View Source</a>
-    </td>
-  </tr>
-</table>
+Shaik Sharukh Khan is a motivated **Computer Science graduate** from Raghu Institute of Technology (2020–2024) with a CGPA of 7.6. He has hands-on experience as a **Java Full Stack Developer Intern at CV CORP**, working with cutting-edge technologies including Java, Spring Boot, HTML, CSS, Angular, and MySQL. Known for his **fast learning, analytical mindset, and strong problem-solving skills**, Sharukh is driven to build efficient and modern web applications.
+
+### Education
+
+* **B.Tech in Computer Science** – Raghu Institute of Technology (2020–2024)
+* **Intermediate (MPC)** – A.P. Model College (2018–2020)
+* **SSC** – A.P. Model School (2017–2018)
 
 ---
 
-### 🎓 Education
+## 🛠️ My Skills
 
-- **B.Tech – Computer Science & Engineering**  
-  *Raghu Institute of Technology (2020–2024)* | CGPA: **7.6**
+Here’s a breakdown of my technical and soft skills:
 
-- **Intermediate (MPC)** – A.P. Model College | CGPA: **9.1**
+### Languages
+* **Java**
 
-- **SSC** – A.P. Model School | CGPA: **9.5**
+### Web Technologies
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **Angular**
+
+### Databases
+* **MySQL**
+
+### Frameworks & Tools
+* **RESTful APIs**
+* **Microservices**
+* **Git**
+* **Postman**
+
+### Cloud
+* **AWS** (Foundational)
+
+### Soft Skills
+* Analytical Thinking
+* Teamwork
+* Communication
+* Fast Learning
 
 ---
 
-### 📬 Contact Me
+## 💻 Services I Offer
 
-| Method        | Details |
-|---------------|---------|
-| 📧 **Email**  | [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com) |
-| 📞 **Phone**  | +91-7013652787 |
-| 🔗 **LinkedIn** | [linkedin.com/in/shaik-sharukh-khan](https://www.linkedin.com/in/shaik-sharukh-khan) |
-| 💻 **GitHub** | [github.com/skkhan007](https://github.com/skkhan007) |
+### Full-Stack Development
+End-to-end web application development, covering both front-end and back-end, including robust database integration.
+
+### Front-end Development
+Crafting intuitive and responsive user interfaces using HTML, CSS, JavaScript, and Angular, prioritizing exceptional user experience.
+
+### Back-end Development
+Implementing robust business logic and developing efficient APIs with Java and Spring Boot.
+
+### API & Database Integration
+Seamless handling of RESTful APIs and performing complex MySQL data operations, rigorously tested with Postman.
+
+### Web Application Development
+Building agile-driven, modular, and scalable applications meticulously tailored to meet specific client needs.
 
 ---
 
-<p align="center"><i>“Transforming ideas into intelligent and scalable digital solutions.”</i></p>
+## 🚀 My Projects
+
+### [Foodie – Food Delivery Website](https://github.com/skkhan007/YOUR_FOODIE_PROJECT_REPO_NAME)
+A full-featured food delivery platform incorporating comprehensive cart management, secure checkout processes, detailed billing, dynamic animations, and a fully responsive UI/UX.
+* **Tech Stack:** HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySQL
+
+### [Revolutionizing Software Quality](https://github.com/skkhan007/YOUR_SOFTWARE_QUALITY_PROJECT_REPO_NAME)
+A machine learning research project focused on improving software quality through defect estimation. Utilizes various classification algorithms including Support Vector Machine (SVM), Random Forest, Bagging, and K-Nearest Neighbors (KNN) to enhance defect prediction accuracy.
+* **Objective:** Improve software quality and defect prediction accuracy.
+
+---
+
+## 📞 Get in Touch
+
+Feel free to connect with me!
+
+* **Email:** [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com)
+* **Phone:** [+91-7013652787](tel:+917013652787)
+* **GitHub:** [github.com/skkhan007](https://github.com/skkhan007)
+* **LinkedIn:** [linkedin.com/in/shaik-sharukh-khan](https://www.linkedin.com/in/shaik-sharukh-khan)
+
+---
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=skkhan007&color=blueviolet" alt="Profile views" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=skkhan007&show_icons=true&theme=radical&hide_rank=false" alt="Sharukh's GitHub Stats" />
+    <img src="https://github-readme-trophies.vercel.app/?username=skkhan007&theme=dracula&no-background=true" alt="Sharukh's GitHub Trophies" />
+  </p>
+  <p>Thanks for stopping by! Let's build something amazing.</p>
+</div>

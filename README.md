@@ -1,75 +1,76 @@
+<p align="center">
+  <img src="https://i.imgur.com/2n6Togm.png" alt="Shaik Sharukh Khan - Banner" width="100%"/>
+</p>
+
 <h1 align="center">Shaik Sharukh Khan</h1>
 <p align="center"><i>Full Stack Developer | Java | Spring Boot | Angular | MySQL</i></p>
 
 ---
 
-### 🛠️ Core Skills
+### 👨‍💼 About Me
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/><br>Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/><br>Angular
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/><br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/><br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/><br>Postman
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/><br>AWS (Basics)
-    </td>
-  </tr>
-</table>
+I’m a passionate **Full Stack Developer** with a B.Tech in **Computer Science & Engineering** from **Raghu Institute of Technology (2020–2024)**.  
+Currently interning at **CV CORP**, I love building scalable, intuitive, and dynamic web applications using modern tech stacks.
+
+---
+
+### 🛠️ My Tech Toolbox
+
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" title="Java"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="40" title="Spring Boot"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="40" title="Angular"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" title="HTML5"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" title="CSS3"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" title="MySQL"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" title="Git"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" title="Postman"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="40" title="AWS (Basics)"/></a>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" width="100%">
   <tr>
-    <td style="border:1px solid #DDD; padding:12px; width:48%; vertical-align:top;">
-**Foodie – Food Delivery Platform**  
-A full-stack solution with smooth UI, secure cart, checkout, billing & animations.  
-**Tech Stack:** Angular • Java • Spring Boot • MySQL
+    <td width="50%" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px;">
+      <strong>🍽️ Foodie – Food Delivery Platform</strong><br><br>
+      A dynamic platform with real-time food browsing, cart, secure checkout, and animated UI.<br><br>
+      <b>Tech Stack:</b> Angular, Spring Boot, Java, MySQL<br>
+      🔗 <a href="https://github.com/skkhan007/Foodie">View Source</a> | <a href="https://foodie-demo.netlify.app">Live Demo</a>
     </td>
-    <td style="border:1px solid #DDD; padding:12px; width:48%; vertical-align:top;">
-**Revolutionizing Software Quality – ML Research**  
-ML-driven defect prediction using SVM, Random Forest, KNN, and Bagging to enhance software reliability.
+    <td width="50%" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px;">
+      <strong>🧠 Revolutionizing Software Quality – ML Research</strong><br><br>
+      Built a predictive model using SVM, RF, KNN, and Bagging for defect detection in software development.<br><br>
+      <b>Tech Stack:</b> Python, Scikit-learn<br>
+      🔗 <a href="https://github.com/skkhan007/Software-Quality-ML">View Source</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📬 Connect with Me
+### 🎓 Education
 
-| Platform   | Details |
-|------------|---------|
-| **Email**  | [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com) |
-| **Phone**  | +91‑7013652787 |
-| **LinkedIn** | [shaik-sharukh-khan](https://www.linkedin.com/in/shaik-sharukh-khan) |
-| **GitHub** | [skkhan007](https://github.com/skkhan007) |
+- **B.Tech – Computer Science & Engineering**  
+  *Raghu Institute of Technology (2020–2024)* | CGPA: **7.6**
+
+- **Intermediate (MPC)** – A.P. Model College | CGPA: **9.1**
+
+- **SSC** – A.P. Model School | CGPA: **9.5**
+
+---
+
+### 📬 Contact Me
+
+| Method        | Details |
+|---------------|---------|
+| 📧 **Email**  | [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com) |
+| 📞 **Phone**  | +91-7013652787 |
+| 🔗 **LinkedIn** | [linkedin.com/in/shaik-sharukh-khan](https://www.linkedin.com/in/shaik-sharukh-khan) |
+| 💻 **GitHub** | [github.com/skkhan007](https://github.com/skkhan007) |
 
 ---
 

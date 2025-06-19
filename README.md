@@ -1,62 +1,94 @@
 <h1 align="center">Hi 👋, I'm Shaik Sharukh Khan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Transforming ideas into interactive digital experiences.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Building+seamless+user+experiences" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **React.js, Node.js**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **Backend Development and Deployment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/skkhan007](https://github.com/skkhan007)
-
-- 💬 Ask me about **Java, SQL, HTML, CSS, and Git**
-
-- 📫 How to reach me **sharukhsk007@gmail.com**
-
-- ⚡ Fun fact **I love building creative web apps**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/skkhan007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:sharukhsk007@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:203j1a05h1@raghuinstech.com"><img src="https://img.shields.io/badge/Email-Red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shaik-sharukh-khan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/skkhan007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
+## 👨‍💻 About Me
+
+I'm **Shaik Sharukh Khan**, a passionate Full Stack Developer focused on building scalable web applications and seamless digital interfaces.
+
+🎓 **B.Tech in Computer Science** – Raghu Institute of Technology (2020–2024)  
+💼 **Java Full Stack Developer Intern** – CV CORP  
+🚀 Fast learner, problem solver, team player.
+
+> “Driven to build efficient and modern web applications.”
 
 ---
 
-<h3 align="left">Projects:</h3>
-<p>
-  <a href="https://github.com/skkhan007/your-project-1" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
-  </a>
-  <a href="https://github.com/skkhan007/your-project-2" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
-  </a>
-  <a href="https://github.com/skkhan007/your-project-3" target="_blank">
-    <img src="https://img.shields.io/badge/Project%203-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" />
-  </a>
-</p>
+## 🎓 Education
+
+- **B.Tech (CSE)** – Raghu Institute of Technology – *2020–2024* – CGPA: 7.6  
+- **Intermediate (MPC)** – A.P. Model College – *2018–2020*  
+- **SSC** – A.P. Model School – *2017–2018*
+
+---
+
+## 💼 Skills
+
+### 💻 Languages & Web Tech:
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🧠 Backend, Databases, Tools:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🧠 Soft Skills:
+`Analytical Thinking` | `Teamwork` | `Fast Learning` | `Communication`
+
+---
+
+## 🔧 Services
+
+- ⚙ **Full-Stack Development** – End-to-end web app development
+- 🎨 **Front-end** – HTML, CSS, Angular with responsive UI/UX
+- 🧠 **Back-end** – Java, Spring Boot for business logic & APIs
+- 🔗 **API & DB Integration** – RESTful APIs + MySQL using Postman
+- 🚀 **Web App Development** – Agile-driven modular applications
+
+---
+
+## 🚀 Projects
+
+### 🍔 Foodie – Food Delivery Website
+**Description:** Full-featured food delivery platform with cart, checkout, billing, animations, responsive design  
+**Tech Stack:** HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySQL  
+🔗 [View Project](https://github.com/skkhan007)
+
+---
+
+### 🧠 Revolutionizing Software Quality
+**Description:** Machine learning project focused on defect estimation using SVM, Random Forest, Bagging & KNN.  
+**Objective:** Enhance software defect prediction accuracy.  
+🔗 [View Project](https://github.com/skkhan007)
+
+---
+
+## 📬 Contact Me
+
+Feel free to reach out through any of the platforms below!
+
+- 📧 **Email:** [203j1a05h1@raghuinstech.com](mailto:203j1a05h1@raghuinstech.com)  
+- 📞 **Phone:** +91-7013652787  
+- 🌐 **GitHub:** [github.com/skkhan007](https://github.com/skkhan007)  
+- 🔗 **LinkedIn:** [linkedin.com/in/shaik-sharukh-khan](https://www.linkedin.com/in/shaik-sharukh-khan/)
+
+---
+
+<p align="center">Thanks for visiting my profile! ⭐</p>
